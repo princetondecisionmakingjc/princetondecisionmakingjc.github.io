@@ -205,7 +205,7 @@ div.menu,
 
 /* Main global 'theme' and typographic styles */
 body {
-	background: #DDD;
+	background: #34794b;
 }
 body,
 input,
@@ -318,7 +318,7 @@ input[type="url"],
 input[type="number"],
 textarea {
 	background: #f9f9f9;
-	border: 1px solid #09a478;
+	border: 1px solid #ccc;
 	box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
 	-moz-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
 	-webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
@@ -525,7 +525,7 @@ div.menu li {
 }
 #content tr th,
 #content thead th {
-	color: #09a478;
+	color: #777;
 	font-size: 12px;
 	font-weight: bold;
 	line-height: 18px;
